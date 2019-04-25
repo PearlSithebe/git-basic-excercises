@@ -1,0 +1,225 @@
+    1  pwd
+    2  ls
+    3  Desktop
+    4  cd Desktop
+    5  pwd
+    6  mkdir MyProject
+    7  pwd
+    8  cd MyProject
+    9  pwd
+   10  touch app.js
+   11  cd /
+   12  pwd
+   13  ls
+   14  cd home
+   15  ls
+   16  cd Desktop
+   17  cd recruit
+   18  ls
+   19  cd Desktop
+   20  mkdir myProject2
+   21  cd myProject
+   22  ls
+   23  mkdir myproject3
+   24  rm myproject3/
+   25  rm -f myproject3/
+   26  rm -r myproject3/
+   27  ls
+   28  cd MyProject
+   29  ls
+   30  cp app.js
+   31  cp app.js myProject2
+   32  cd myProject2
+   33  cd ..
+   34  ls
+   35  cd myProject2/
+   36  ls
+   37  cd ..
+   38  cd MyProject
+   39  ls
+   40  ls myProject2 
+   41  ls
+   42  cp app.js /Desktop/myProject2
+   43  cp app.js ../myProject2/
+   44  ls ../myProject2/
+   45  cd ../MyProject/
+   46  ls
+   47  rm -r myProject2 
+   48  ls
+   49  pwd
+   50  ls
+   51  cd Desktop
+   52  git config --global user.name 
+   53  git config --global user.name "PearlSithebe" git config --global user.email pearlsithebe@gmail.com
+   54  git init
+   55  pwd
+   56  cd Desktop
+   57  git clone https://github.com/PearlSithebe/OOP-Challenges.git
+   58  cd OOP-Challenges/
+   59  ls
+   60  sudo apt node.js install
+   61  sudo apt install node.js
+   62  node ass1.js
+   63  ls
+   64  node ass1.js 
+   65  nodejs --version
+   66  pwd
+   67  node ass1.js 
+   68  node.js v
+   69  node.js -v
+   70  sudo apt install node.js
+   71  sudo apt remove nodejs
+   72  $ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+   73  curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+   74  sudo apt-get install -y nodejs
+   75  sudo apt install npm
+   76  nodejs --version
+   77  cd Desktop/C14\ CHALLANGES/
+   78  node ass1.js 
+   79  git init
+   80  cd Desktop
+   81  cd ..
+   82  cd OOP-Challenges/
+   83  ls
+   84  git init
+   85  git status
+   86  git add .
+   87  git commit "Assignment 1"
+   88  git commit
+   89  git config --global user.email pearlsithebe@gmail.com git config user.name PearlSithebe
+   90  pwd
+   91  ls
+   92  cd Desktop
+   93  cd OOP-Challenges/
+   94  git init
+   95  git status
+   96  git commit
+   97  git config --global user.name "PeralSithebe" git config --global user.email pearlsithebe@gmail.com
+   98  git config --global user.email "you@example.com"
+   99  git init
+  100  git status
+  101  git commit
+  102  git config --global user.name "PearlSithebe"
+  103  git config --global user.email "pearlsithebe@gmail.com"
+  104  cd Desktop
+  105  cd OOP-Challenges/
+  106  ls
+  107  git init
+  108  git status
+  109  git commit
+  110  pwd
+  111  cd Desktop
+  112  cd OOP-Challenges/
+  113  git init
+  114  git status
+  115  git commit
+  116  git push
+  117  pwd
+  118  node
+  119  mkdir git-basic-excercises
+  120  cd git-basic-excercises
+  121  ls
+  122  git init .
+  123  ls
+  124  ls -a
+  125  git status
+  126  touch README.md .
+  127  ls -a
+  128  git status
+  129  git log .
+  130  git add
+  131  git add README.md
+  132  git status
+  133  git commit -m "initial commit"
+  134  git log 
+  135  q
+  136  git log q
+  137  sudo apt install python-q-text-as-data
+  138  sudo apt install python3-q-text-as-data
+  139  git log q
+  140  q
+  141  git log
+  142  q
+  143  clear();
+  144  pwd
+  145  nano README.md .
+  146  y
+  147  cat README.md .
+  148  git stats
+  149  git commit -m "second commit"
+  150  git log
+  151  cd git-basic-excercises
+  152  git log
+  153  nano README.md .
+  154  cat README.md .
+  155  git stats
+  156  git status
+  157  git commit -m "second commit"
+  158  nano README.md
+  159  cat README.md .
+  160  git status
+  161  git commit -m "second commit"
+  162  git add
+  163  git add .
+  164  git commit -m "second commit"
+  165  nano README.md .
+  166  git add .
+  167  git commit -m "third commit"
+  168  git log
+  169  git checkout 76e587e2066fbf520c3df37a9c035d26d8d22bce
+  170  cat README.md
+  171  git checkout master
+  172  cat README.md
+  173  git branch
+  174  git checkout -b "milkshake-flavours"
+  175  git branch
+  176  nano milkshakes.md 
+  177  git status
+  178  git add .
+  179  git commit -m "added initial flavours"
+  180  git log
+  181  git checkout master
+  182  git checkout -b "history"
+  183  git log
+  184  git checkout milkshake-flavours 
+  185  git log
+  186  git checkout master 
+  187  ure we are still on track
+  188  git log
+  189  history > history.txt
+  190  git add
+  191  git add .
+  192  git commit -m " added history"
+  193  git log
+  194  git checkout milkshake-flavours 
+  195  git log
+  196  nano README.md
+  197  git add .
+  198  git commit -m "random readme changes"
+  199  git checkout history 
+  200  cat README.md
+  201  rm README.md
+  202  enco "booya" > README.md
+  203  echo "booya" > README.md
+  204  git add .
+  205  git commit -m " rewrote readme"
+  206  git checkout master 
+  207  ls
+  208  git checkout history
+  209  git checkout master 
+  210  git log
+  211  git checkout history 
+  212  git cherry-pick a90f5440466b93c25ae5fa0e95d19adf98078c01
+  213  git checkout master 
+  214  ls
+  215  git reset HEAD~1
+  216  ls
+  217  mv history.txt /history/
+  218  ls
+  219  git status
+  220  rm history.text
+  221  rm history.txt
+  222  ls
+  223  git status
+  224  git checkout history
+  225  history > history.txt
