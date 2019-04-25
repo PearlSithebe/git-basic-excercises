@@ -187,3 +187,39 @@
   187  ure we are still on track
   188  git log
   189  history > history.txt
+  190  git add
+  191  git add .
+  192  git commit -m " added history"
+  193  git log
+  194  git checkout milkshake-flavours 
+  195  git log
+  196  nano README.md
+  197  git add .
+  198  git commit -m "random readme changes"
+  199  git checkout history 
+  200  cat README.md
+  201  rm README.md
+  202  enco "booya" > README.md
+  203  echo "booya" > README.md
+  204  git add .
+  205  git commit -m " rewrote readme"
+  206  git checkout master 
+  207  ls
+  208  git checkout history
+  209  git checkout master 
+  210  git log
+  211  git checkout history 
+  212  git cherry-pick a90f5440466b93c25ae5fa0e95d19adf98078c01
+  213  git checkout master 
+  214  ls
+  215  git reset HEAD~1
+  216  ls
+  217  mv history.txt /history/
+  218  ls
+  219  git status
+  220  rm history.text
+  221  rm history.txt
+  222  ls
+  223  git status
+  224  git checkout history
+  225  history > history.txt
